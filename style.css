@@ -2,6 +2,9 @@
   text-align: center;
   margin-top: 30%;
 } */
+body {
+  background-color: black;
+}
 #space {
   min-height: 100px;
 }
