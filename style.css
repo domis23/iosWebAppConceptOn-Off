@@ -1,0 +1,30 @@
+/* h1 {
+  text-align: center;
+  margin-top: 30%;
+} */
+#space {
+  min-height: 100px;
+}
+#btnON,
+#btnOFF {
+  width: 40%;
+  height: 20%;
+  min-height: 40px;
+}
+#btnContainer {
+  text-align: center;
+}
+#after {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 2em;
+}
+.on {
+  color: green;
+}
+.off {
+  color: red;
+}
+#swiatlo {
+  text-align: center;
+}
